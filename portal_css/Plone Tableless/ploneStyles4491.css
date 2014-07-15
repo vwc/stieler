@@ -1,0 +1,129 @@
+
+/* - ploneCustom.css - */
+@media all {
+/* http://karina-stieler.de/portal_css/ploneCustom.css?original=1 */
+/* */
+/* */
+body {
+text-align: center;
+/* \*/
+text-align: left;
+margin: 0px;
+background: url(http://karina-stieler.de/bg.gif) repeat-x 0px 0px #019ca8;
+/* */
+}
+#css-notice {
+display: none;
+}
+.hiddenStructure {
+height: 0px;
+}
+.visualClear {
+line-height: 0px;
+}
+/* *****/
+#start {
+width: 800px;
+height: 300px;
+padding: 60px 0 0 0;
+margin: 100px auto 0px auto;
+border: 0px solid black;
+}
+#start a:link {
+color: #008795;
+text-decoration: none;
+font-weight: bold;
+}
+#start a:visited {
+color: #008795;
+text-decoration: none;
+font-weight: bold;
+}
+#start a:hover {
+color: #008795;
+text-decoration: none;
+font-weight: bold;
+}
+#flash {
+width: 800px;
+padding: 0px;
+margin: 10px auto 0px auto;
+}
+#signature {
+color: black;
+font-size: 10px;
+width: 765px;
+text-align: right;
+margin-top: 5px;
+margin-left: auto;
+margin-right: auto;
+}
+#signature a:link {
+color: white;
+font-weight: bold;
+}
+#signature a:visited {
+color: white;
+font-weight: bold;
+}
+#signature a:hover {
+color: #316795;
+font-weight: bold;
+}
+#visual-portal-wrapper {
+width: 656px;
+margin: 10px auto 0 auto;
+}
+#visual-column-wrapper {
+width: 656px;
+background: white;
+}
+#portal-logo {
+margin: 0;
+padding: 0;
+width: 656px;
+}
+#portal-logo-kontakt {
+background: url(http://karina-stieler.de/formular.gif) no-repeat;
+margin: 0;
+padding: 0;
+width: 656px;
+border: 0;
+}
+#portal-logo-kontakt a {
+display: block;
+text-decoration: none;
+overflow: hidden;
+border: 0;
+margin: 0;
+padding: 0;
+padding-top: 210px;
+height: 0px !important;
+height /**/: 210px;
+width: 656px;
+cursor: pointer;
+}
+#portal-columns {
+padding: 0 0 0 0;
+background: white;
+}
+#portal-column-content .visualPadding,
+#portal-column-one .visualPadding,
+#portal-column-two .visualPadding {
+padding: 0;
+margin: 0;
+}
+#portal-footer {
+padding: 0;
+margin: 0;
+height: 184px;
+background: url(http://karina-stieler.de/gaestebuch_footer.gif) no-repeat 0px 0px;
+border: 0px solid black;
+}
+#portal-colophon {
+display: none;
+}
+/* */
+
+}
+
